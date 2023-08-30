@@ -7,7 +7,7 @@ global.owner = [
   ['6285785705233'], // global owner 0
   ['628990085223'], // global owner 1
   ['6283848947227'], // global owner 2
-  ['6285785705233', 'Chandra XD', true] // global owner 3
+  ['6289531519917', 'Bang luthfi', true] // global owner 3
 ]
 
 global.mods = [] // Want some help?
